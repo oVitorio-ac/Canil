@@ -49,7 +49,7 @@ Não se aplica.
 
 4. Execute a aplicação:
     ```sh
-    java Canil
+    java  src/canil.java 
     ```
 
 Exemplo de código em `Canil.java`:
